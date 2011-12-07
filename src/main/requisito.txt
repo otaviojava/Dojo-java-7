@@ -1,5 +1,0 @@
-Somente podem jogar 2 jogadores por vez
-Os restantes ficam na fila
-O jogador que ganhar fica e o que perder sai
-Se empatar saem os dois
-Se não tiver ninguém na file os jogadores continuam

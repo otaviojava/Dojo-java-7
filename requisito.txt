@@ -1,0 +1,11 @@
+Video Game com alguns comandos de voz 
+
+O objetivo é fazer um console(video Game) com alguns comandos de voz, para um jogo de futebol, ao se falar o nome do jogador são carregadas todas as suas configurações e o time para iniciar a partida otimizando o tempo da partida. 
+
+ao se falar "adicionar" seguido do nome do jogador ele é  adicionado
+ao se falar "jogar" o jogo é iniciado, deve ser verificado se existem ao menos dois jogadores , caso haja a partida é iniciada
+caso haja mais de dois jogadores ao se falar "adicionar" o jogador ficar na fila de espera 
+ao se falar "perdeu" seguido do nome do jogador, esse jogador sai dando a vez para outro jogador 
+ao se falar “empate” os dois jogadores saem dando oportunidade a outros dois jogadores
+
+
